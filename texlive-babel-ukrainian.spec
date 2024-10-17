@@ -3,7 +3,7 @@ Version:	56674
 Release:	2
 Summary:	Babel support for Ukrainian
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-ukrainian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-ukrainian
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-ukrainian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-ukrainian.doc.r%{version}.tar.xz
